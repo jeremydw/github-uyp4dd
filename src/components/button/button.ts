@@ -1,4 +1,4 @@
-import styles from './button.lit.foo';
+import styles from './button.lit.scss';
 
 export default class Button {
   static styles = styles;
